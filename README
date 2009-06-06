@@ -1,2 +1,4 @@
 
+Before compiling, change DEBUG_PASSWORD to something unique!
+
 Use -p<password> option to activate debug mode.
